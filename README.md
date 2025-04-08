@@ -3,7 +3,7 @@
 <br>
 <h2>Esse Projeto eu Aprendi no <a href="https://rodolfomori.com.br/devclub/">DevClub</a> </h2>
 <h3>Formato desktop e Mobile</h3>
-<img src="https://raw.githubusercontent.com/Verneloira/Easy-shopping/main/assets/Desktop.jpg"/>
+<img src="https://github.com/luchs8/Easy-Shop/blob/main/assets/Desktop.png"/>
 
-<img src="https://raw.githubusercontent.com/Verneloira/Easy-shopping/main/assets/Mobile.jpg"/>
+<img src="https://github.com/luchs8/Easy-Shop/blob/main/assets/Mobile.png"/>
 
